@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.calculadoratrabalhista.budget",
+        "sha256_cert_fingerprints":
+          ["A4:73:74:7A:51:B5:69:CD:E4:CC:9A:6F:C1:C9:65:FA:E2:55:30:2F:F6:DB:CC:6A:D8:A9:E0:C6:2B:AA:CD:80"]
+      }
+    }
+  ]
